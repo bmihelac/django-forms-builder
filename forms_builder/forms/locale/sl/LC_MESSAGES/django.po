@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-19 09:25+0200\n"
+"PO-Revision-Date: 2013-08-19 09:50+0100\n"
+"Last-Translator:   <bmihelac@mihelac.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3)\n"
+"X-Translated-Using: django-rosetta 0.7.2\n"
+
+#: forms/admin.py:29 forms/fields.py:29
+msgid "Email"
+msgstr "E-mail"
+
+#: forms/admin.py:33
+msgid "Sites"
+msgstr "Web strani"
+
+#: forms/admin.py:124
+#, python-format
+msgid "1 entry deleted"
+msgid_plural "%(count)s entries deleted"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: forms/admin.py:128
+msgid "View Entries"
+msgstr "Pregled zapisov"
+
+#: forms/fields.py:27
+msgid "Single line text"
+msgstr "Vrsticat vsebine"
+
+#: forms/fields.py:28
+msgid "Multi line text"
+msgstr "Več vrstic vsebine"
+
+#: forms/fields.py:30
+msgid "Number"
+msgstr "Število"
+
+#: forms/fields.py:31
+msgid "URL"
+msgstr "URL"
+
+#: forms/fields.py:32
+msgid "Check box"
+msgstr "Potrditveno polje"
+
+#: forms/fields.py:33
+msgid "Check boxes"
+msgstr "Potrditvena polja"
+
+#: forms/fields.py:34
+msgid "Drop down"
+msgstr "Spustni meni"
+
+#: forms/fields.py:35
+msgid "Multi select"
+msgstr "Več izbir"
+
+#: forms/fields.py:36
+msgid "Radio buttons"
+msgstr "Radijski gumb"
+
+#: forms/fields.py:37
+msgid "File upload"
+msgstr ""
+
+#: forms/fields.py:38
+msgid "Date"
+msgstr "Datum"
+
+#: forms/fields.py:39 forms/models.py:224
+msgid "Date/time"
+msgstr "Datum/čas"
+
+#: forms/fields.py:40
+msgid "Hidden"
+msgstr "Skrito"
+
+#: forms/forms.py:30 forms/forms.py:38 forms/forms.py:44
+msgid "Nothing"
+msgstr "Ničesar"
+
+#: forms/forms.py:31
+msgid "Contains"
+msgstr "Vsebuje"
+
+#: forms/forms.py:32
+msgid "Doesn't contain"
+msgstr "Ne vsebuje"
+
+#: forms/forms.py:33 forms/forms.py:39
+msgid "Equals"
+msgstr "Enako"
+
+#: forms/forms.py:34 forms/forms.py:40
+msgid "Doesn't equal"
+msgstr "Ni enako"
+
+#: forms/forms.py:45
+msgid "Is between"
+msgstr "Je med"
+
+#: forms/forms.py:207
+msgid "Checked"
+msgstr "Izbrano"
+
+#: forms/forms.py:207
+msgid "Not checked"
+msgstr "Ni izbrano"
+
+#: forms/forms.py:221 forms/forms.py:236
+msgid "and"
+msgstr "in"
+
+#: forms/models.py:54
+msgid "Title"
+msgstr "Ime"
+
+#: forms/models.py:56
+msgid "Intro"
+msgstr "Uvod"
+
+#: forms/models.py:57
+msgid "Button text"
+msgstr "Ime gumba"
+
+#: forms/models.py:58
+msgid "Submit"
+msgstr "Potrdi"
+
+#: forms/models.py:59
+msgid "Response"
+msgstr "Odgovor"
+
+#: forms/models.py:60
+msgid "Status"
+msgstr "Status"
+
+#: forms/models.py:62
+msgid "Published from"
+msgstr "Objavljen obrazec"
+
+#: forms/models.py:63
+msgid "With published selected, won't be shown until this time"
+msgstr ""
+
+#: forms/models.py:65
+msgid "Expires on"
+msgstr ""
+
+#: forms/models.py:66
+msgid "With published selected, won't be shown after this time"
+msgstr ""
+
+#: forms/models.py:68
+msgid "Login required"
+msgstr ""
+
+#: forms/models.py:69
+msgid "If checked, only logged in users can view the form"
+msgstr ""
+
+#: forms/models.py:70
+msgid "Send email"
+msgstr "Pošiljanje sporočila"
+
+#: forms/models.py:71
+msgid "If checked, the person entering the form will be sent an email"
+msgstr "Če je izbrano, bo oseba, ki izpolni obrazec prejelea sporočilo"
+
+#: forms/models.py:72
+msgid "From address"
+msgstr "Od naslov"
+
+#: forms/models.py:73
+msgid "The address the email will be sent from"
+msgstr "E-mail naslov iz katerega bo sporočilo poslano"
+
+#: forms/models.py:74
+msgid "Send copies to"
+msgstr "Pošlji kopije"
+
+#: forms/models.py:75
+msgid "One or more email addresses, separated by commas"
+msgstr "Ena ali več naslovov, ločeno z vejico"
+
+#: forms/models.py:77
+msgid "Subject"
+msgstr "Zadeva"
+
+#: forms/models.py:78
+msgid "Message"
+msgstr "Sporočilo"
+
+#: forms/models.py:83
+msgid "Form"
+msgstr "Obrazec"
+
+#: forms/models.py:84
+msgid "Forms"
+msgstr "Obrazci"
+
+#: forms/models.py:149
+msgid "Placeholder Text"
+msgstr ""
+
+#: forms/models.py:156
+msgid "Label"
+msgstr "Ime"
+
+#: forms/models.py:157
+msgid "Slug"
+msgstr ""
+
+#: forms/models.py:159
+msgid "Type"
+msgstr "Zvrst"
+
+#: forms/models.py:160
+msgid "Required"
+msgstr "Obvezno"
+
+#: forms/models.py:161
+msgid "Visible"
+msgstr "Vidno"
+
+#: forms/models.py:162
+msgid "Choices"
+msgstr "Izbire"
+
+#: forms/models.py:167
+msgid "Default value"
+msgstr "Privzeta vrednost"
+
+#: forms/models.py:170
+msgid "Help text"
+msgstr "Pomoč vsebina"
+
+#: forms/models.py:175 forms/templates/admin/forms/entries.html:87
+msgid "Field"
+msgstr "Polje"
+
+#: forms/models.py:176
+msgid "Fields"
+msgstr "Polja"
+
+#: forms/models.py:227
+msgid "Form entry"
+msgstr "Obrazec vnos"
+
+#: forms/models.py:228
+msgid "Form entries"
+msgstr "Obrazec vnosi"
+
+#: forms/models.py:241
+msgid "Form field entry"
+msgstr "Polje vnos"
+
+#: forms/models.py:242
+msgid "Form field entries"
+msgstr "Polje vnosi"
+
+#: forms/models.py:266
+msgid "Order"
+msgstr "Razvrstitev"
+
+#: forms/templates/admin/forms/change_form.html:9
+#: forms/templates/admin/forms/entries.html:116
+msgid "View entries"
+msgstr "Pregled vnosov"
+
+#: forms/templates/admin/forms/change_form.html:12
+msgid "History"
+msgstr "Zgodovina"
+
+#: forms/templates/admin/forms/change_form.html:16
+msgid "View on site"
+msgstr "Poglej na strani"
+
+#: forms/templates/admin/forms/entries.html:61
+msgid "No entries selected"
+msgstr ""
+
+#: forms/templates/admin/forms/entries.html:64
+msgid "Delete selected entries?"
+msgstr ""
+
+#: forms/templates/admin/forms/entries.html:73
+msgid "Home"
+msgstr "Domov"
+
+#: forms/templates/admin/forms/entries.html:88
+msgid "Include"
+msgstr ""
+
+#: forms/templates/admin/forms/entries.html:89
+msgid "Filter by"
+msgstr ""
+
+#: forms/templates/admin/forms/entries.html:107
+msgid "All"
+msgstr "Vse"
+
+#: forms/templates/admin/forms/entries.html:115
+#: forms/templates/admin/forms/entries.html:155
+msgid "Back to form"
+msgstr ""
+
+#: forms/templates/admin/forms/entries.html:117
+msgid "Export CSV"
+msgstr ""
+
+#: forms/templates/admin/forms/entries.html:120
+msgid "Entries"
+msgstr ""
+
+#: forms/templates/admin/forms/entries.html:156
+msgid "Delete selected"
+msgstr ""
+
+#: forms/templates/admin/forms/entries.html:160
+msgid "No entries to display"
+msgstr ""
